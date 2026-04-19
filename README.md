@@ -25,4 +25,5 @@ User can stop alarm:
 >10kΩ Resistor	1
 >16x2 LCD (I2C)	1
 >Breadboard	1
+>L298N motor driver 1
 >Jumper Wires	As needed
